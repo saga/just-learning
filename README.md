@@ -1,4 +1,12 @@
 
+# 推荐系统
+
+https://zhuanlan.zhihu.com/p/379721725 推荐系统概述和主流模型介绍
+
+https://www.woshipm.com/pd/4223123.html 23张图，带你入门推荐系统
+
+https://aws.amazon.com/cn/blogs/china/recommended-system-overview-of-recommended-system-series-part-1/ 推荐系统系列之推荐系统概览
+
 
 # mobile
 
