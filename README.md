@@ -1,5 +1,5 @@
 
-# 推荐系统
+## 推荐系统
 
 https://zhuanlan.zhihu.com/p/379721725 推荐系统概述和主流模型介绍
 
@@ -16,9 +16,7 @@ https://www.jiqizhixin.com/articles/2021-07-28-4  KDD 2021 | 小红书推荐多�
 https://aijishu.com/a/1060000000367901 小红书LarC：应用大规模深度学习的分钟级实时推荐系统
 
 
-
-
-# mobile
+## mobile
 
 https://binlogo.github.io/Knowledge-Track/iOSDev/threading-programming/thread-management.html
 
@@ -29,7 +27,7 @@ https://faisalmemon.github.io/ios-crash-dump-analysis-book/zh/
 https://www.ianisme.com/ios/2019.html Objective-C Runtime 1小时入门教程
 
 
-# rust learning
+## rust learning
 
 https://prev.rust-lang.org/zh-CN/faq.html
 
@@ -39,8 +37,8 @@ https://kaisery.github.io/trpl-zh-cn/
 
 https://course.rs/into-rust.html Rust 语言圣经
 
+## OTHER
 
+https://icy-base-3c59.dal.workers.dev/
 
-# rust on iOS and Android
-
-
+XX
